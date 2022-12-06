@@ -1,0 +1,237 @@
+name,rarity,operator_class,operator_subclass,damage_type,attack_type,target,dp_cost,redeploy_time,DPS
+Lee,6,Specialist,Merchant,Physical Damage,Melee,1,9,25,789.0
+Mountain,6,Guard,Fighter,Physical Damage,Melee,1,11,70,752.5641025641025
+Mr. Nothing,5,Specialist,Merchant,Physical Damage,Melee,1,8,25,725.0
+Nearl the Radiant Knight,6,Guard,Dreadnought,Physical Damage,Melee,1,19,70,709.3333333333333
+Flint,5,Guard,Fighter,Physical Damage,Melee,1,10,70,698.7179487179486
+Indra,5,Guard,Fighter,Physical Damage,Melee,1,10,70,679.4871794871794
+Jackie,4,Guard,Fighter,Physical Damage,Melee,1,9,70,678.2051282051282
+Skadi,6,Guard,Dreadnought,Physical Damage,Melee,1,19,70,676.6666666666666
+Jaye,4,Specialist,Merchant,Physical Damage,Melee,1,7,25,674.0
+Beehunter,4,Guard,Fighter,Physical Damage,Melee,1,9,70,657.6923076923076
+Pallas,6,Guard,Instructor,Physical Damage,Melee,1,17,70,654.2857142857142
+Sharp,5,Guard,Dreadnought,Physical Damage,Melee,1,17,60,638.0
+Blaze,6,Guard,Centurion,Physical Damage,Melee,multblock,24,70,637.5
+Hellagur,6,Guard,Musha,Physical Damage,Melee,1,26,70,635.0
+Broca,5,Guard,Centurion,Physical Damage,Melee,multblock,23,70,635.0
+Eunectes,6,Defender,Duelist,Physical Damage,Melee,1,33,70,629.375
+Swire,5,Guard,Instructor,Physical Damage,Melee,1,16,70,624.7619047619047
+Franka,5,Guard,Dreadnought,Physical Damage,Melee,1,18,70,624.0
+Frost,5,Specialist,Trapmaster,Physical Damage,Ranged,1,11,70,622.3529411764706
+Conviction,4,Guard,Dreadnought,Physical Damage,Melee,1,16,70,619.3333333333333
+Whislash,5,Guard,Instructor,Physical Damage,Melee,1,18,80,614.2857142857142
+Flamebringer,5,Guard,Dreadnought,Physical Damage,Melee,1,20,80,612.0
+Matoimaru,4,Guard,Dreadnought,Physical Damage,Melee,1,17,70,610.6666666666666
+Akafuyu,5,Guard,Musha,Physical Damage,Melee,1,25,70,606.6666666666667
+Specter,5,Guard,Centurion,Physical Damage,Melee,multblock,23,70,604.1666666666667
+Robin,5,Specialist,Trapmaster,Physical Damage,Ranged,1,13,80,603.5294117647059
+Phantom,6,Specialist,Executor,Physical Damage,Melee,1,10,18,600.0
+Stormeye,5,Sniper,Marksman,Physical Damage,Ranged,1,12,60,595.0
+Savage,5,Guard,Centurion,Physical Damage,Melee,multblock,22,70,587.5
+Bagpipe,6,Vanguard,Charger,Physical Damage,Melee,1,13,70,586.0
+Utage,4,Guard,Musha,Physical Damage,Melee,1,24,70,577.5
+Kazemaru,5,Specialist,Dollkeeper,Physical Damage,Melee,1,15,70,576.6666666666667
+Waai Fu,5,Specialist,Executor,Physical Damage,Melee,1,9,18,576.3440860215053
+Estelle,4,Guard,Centurion,Physical Damage,Melee,multblock,22,70,575.0
+Dobermann,4,Guard,Instructor,Physical Damage,Melee,1,15,70,573.3333333333333
+Projekt Red,5,Specialist,Executor,Physical Damage,Melee,1,9,18,569.8924731182796
+Bena,5,Specialist,Dollkeeper,Physical Damage,Melee,1,17,80,568.3333333333334
+Kafka,5,Specialist,Executor,Physical Damage,Melee,1,9,18,564.516129032258
+Weedy,6,Specialist,Push Stroker,Physical Damage,Melee,multblock,21,70,564.1666666666667
+Aurora,5,Defender,Duelist,Physical Damage,Melee,1,32,70,563.125
+Reed,5,Vanguard,Charger,Physical Damage,Melee,1,12,70,562.0
+Wild Mane,5,Vanguard,Charger,Physical Damage,Melee,1,14,80,558.0
+Vigna,4,Vanguard,Charger,Physical Damage,Melee,1,11,70,558.0
+Grani,5,Vanguard,Charger,Physical Damage,Melee,1,14,80,552.0
+Mudrock,6,Defender,Juggernaut,Physical Damage,Melee,1,36,70,551.25
+SilverAsh,6,Guard,Lord,Physical Damage,Melee,1,20,70,548.4615384615385
+Thorns,6,Guard,Lord,Physical Damage,Melee,1,20,70,546.9230769230769
+Enforcer,5,Specialist,Push Stroker,Physical Damage,Melee,1,22,80,544.1666666666667
+Aak,6,Specialist,Sacrificial Specialist,Physical Damage,Ranged,1,13,70,540.7692307692307
+Exusiai,6,Sniper,Marksman,Physical Damage,Ranged,1,14,70,540.0
+Surtr,6,Guard,Arts Fighter,Arts Damage,Melee,1,21,70,537.6
+Blue Poison,5,Sniper,Marksman,Physical Damage,Ranged,1,13,70,535.0
+Ash,6,Sniper,Marksman,Physical Damage,Ranged,1,14,70,534.0
+FEater,5,Specialist,Push Stroker,Physical Damage,Melee,multblock,20,70,533.3333333333334
+April,5,Sniper,Marksman,Physical Damage,Ranged,1,13,70,528.0
+Archetto,6,Sniper,Marksman,Physical Damage,Ranged,1,14,70,528.0
+Astesia,5,Guard,Arts Fighter,Arts Damage,Melee,1,21,70,528.0
+Lappland,5,Guard,Lord,Physical Damage,Melee,1,19,70,526.9230769230769
+Amiya (Guard),5,Guard,Arts Fighter,Arts Damage,Melee,1,21,70,525.6
+Schwarz,6,Sniper,Heavyshooter,Physical Damage,Ranged,1,20,70,525.0
+Ayerscarpe,5,Guard,Lord,Physical Damage,Melee,AoE,19,70,515.3846153846154
+Mousse,4,Guard,Arts Fighter,Arts Damage,Melee,1,20,70,515.2
+GreyThroat,5,Sniper,Marksman,Physical Damage,Ranged,1,13,70,513.0
+Vulcan,5,Defender,Juggernaut,Physical Damage,Melee,1,35,70,512.5
+Frostleaf,4,Guard,Lord,Physical Damage,Melee,1,18,70,507.6923076923076
+Platinum,5,Sniper,Marksman,Physical Damage,Ranged,1,13,70,505.0
+Saga,6,Vanguard,Pioneer,Physical Damage,Melee,1,14,70,504.76190476190476
+Kroos the Keen Glint,5,Sniper,Marksman,Physical Damage,Ranged,1,15,80,502.0
+Flametail,6,Vanguard,Pioneer,Physical Damage,Melee,1,14,70,500.9523809523809
+La Pluma,5,Guard,Reaper Guard,Physical Damage,Melee,1,22,70,499.99999999999994
+Chiave,5,Vanguard,Pioneer,Physical Damage,Melee,1,13,70,497.1428571428571
+Sideroca,5,Guard,Arts Fighter,Arts Damage,Melee,1,23,80,496.0
+Arene,4,Guard,Lord,Physical Damage,Melee,1,18,70,492.30769230769226
+Melantha,3,Guard,Dreadnought,Physical Damage,Melee,1,15,70,492.0
+Siege,6,Vanguard,Pioneer,Physical Damage,Melee,1,14,70,490.4761904761904
+Provence,5,Sniper,Heavyshooter,Physical Damage,Ranged,1,19,70,488.125
+Gravel,4,Specialist,Executor,Physical Damage,Melee,1,8,18,486.02150537634407
+Vermeil,4,Sniper,Marksman,Physical Damage,Ranged,1,12,70,485.0
+Shaw,4,Specialist,Push Stroker,Physical Damage,Melee,multblock,19,70,483.33333333333337
+May,4,Sniper,Marksman,Physical Damage,Ranged,1,12,70,478.0
+Tachanka,5,Guard,Swordmaster,Physical Damage,Melee,1,24,80,477.6923076923076
+Texas,5,Vanguard,Pioneer,Physical Damage,Melee,1,13,70,476.19047619047615
+Jessica,4,Sniper,Marksman,Physical Damage,Ranged,1,12,70,475.0
+Ch'en,6,Guard,Swordmaster,Physical Damage,Melee,1,23,70,469.23076923076917
+Meteor,4,Sniper,Marksman,Physical Damage,Ranged,1,12,70,465.0
+Bibeak,5,Guard,Swordmaster,Physical Damage,Melee,1,22,70,463.07692307692304
+Aciddrop,4,Sniper,Heavyshooter,Physical Damage,Ranged,1,18,70,459.375
+Zima,5,Vanguard,Pioneer,Physical Damage,Melee,1,13,70,447.6190476190476
+Scavenger,4,Vanguard,Pioneer,Physical Damage,Melee,1,12,70,447.6190476190476
+Gladiia,6,Specialist,Hookmaster,Physical Damage,Melee,1,16,80,445.0
+Plume,3,Vanguard,Charger,Physical Damage,Melee,1,10,70,445.0
+Fartooth,6,Sniper,Deadeye,Physical Damage,Ranged,1,22,70,442.96296296296293
+Blacknight,5,Vanguard,Tactician,Physical Damage,Ranged,1,14,70,442.0
+Cutter,4,Guard,Swordmaster,Physical Damage,Melee,1,21,70,439.23076923076917
+Rosa (Poca),6,Sniper,Besieger,Physical Damage,Ranged,1,24,70,430.0
+Cliffheart,5,Specialist,Hookmaster,Physical Damage,Melee,1,13,70,425.0
+Carnelian,6,Caster,Phalanx Caster,Arts Damage,Ranged,AoE,24,70,423.0
+Saileach,6,Vanguard,Standard Bearer,Physical Damage,Melee,1,12,70,419.99999999999994
+Iris,5,Caster,Mystic Caster,Arts Damage,Ranged,1,24,70,419.66666666666663
+Ceobe,6,Caster,Core Caster,Arts Damage,Ranged,1,21,70,416.875
+Courier,4,Vanguard,Pioneer,Physical Damage,Melee,1,12,70,414.2857142857143
+Snowsant,5,Specialist,Hookmaster,Physical Damage,Melee,1,15,80,413.8888888888889
+Nian,6,Defender,Protector,Physical Damage,Melee,1,23,70,412.66666666666663
+Popukar,3,Guard,Centurion,Physical Damage,Melee,multblock,19,70,412.5
+Elysium,5,Vanguard,Standard Bearer,Physical Damage,Melee,1,11,70,409.99999999999994
+Blemishine,6,Defender,Guardian,Physical Damage,Melee,1,22,70,409.1666666666667
+Shalem,5,Defender,Arts Protector,Arts Damage,Melee,1,25,70,405.625
+Beanstalk,4,Vanguard,Tactician,Physical Damage,Ranged,1,13,70,405.0
+Rope,4,Specialist,Hookmaster,Physical Damage,Melee,1,12,70,404.44444444444446
+Saria,6,Defender,Guardian,Physical Damage,Melee,1,22,70,404.1666666666667
+Eyjafjalla,6,Caster,Core Caster,Arts Damage,Ranged,1,21,70,403.125
+Firewatch,5,Sniper,Deadeye,Physical Damage,Ranged,1,21,70,401.85185185185185
+Reserve Operator - Sniper,3,Sniper,Marksman,Physical Damage,Ranged,1,10,70,401.0
+Myrtle,4,Vanguard,Standard Bearer,Physical Damage,Melee,1,10,70,399.99999999999994
+Toddifons,5,Sniper,Besieger,Physical Damage,Ranged,1,23,70,397.5
+Andreana,5,Sniper,Deadeye,Physical Damage,Ranged,1,21,70,396.29629629629625
+Asbestos,5,Defender,Arts Protector,Arts Damage,Melee,1,25,70,395.625
+Absinthe,5,Caster,Core Caster,Arts Damage,Ranged,1,22,80,395.625
+Nightmare,5,Caster,Core Caster,Arts Damage,Ranged,1,20,70,388.75
+Nearl,5,Defender,Guardian,Physical Damage,Melee,1,21,70,385.0
+Amiya,5,Caster,Core Caster,Arts Damage,Ranged,1,20,70,382.5
+Midnight,3,Guard,Lord,Physical Damage,Melee,1,16,70,382.30769230769226
+Tomimi,5,Caster,Core Caster,Arts Damage,Ranged,1,22,80,375.0
+Kroos,3,Sniper,Marksman,Physical Damage,Ranged,1,11,70,375.0
+Indigo,4,Caster,Mystic Caster,Arts Damage,Ranged,1,23,70,372.0
+Blitz,5,Defender,Protector,Physical Damage,Melee,1,22,70,370.83333333333337
+Hung,5,Defender,Guardian,Physical Damage,Melee,1,21,70,368.33333333333337
+Skadi the Corrupting Heart,6,Supporter,Bard,Physical Damage,Ranged,1,8,70,368.0
+Beeswax,5,Caster,Phalanx Caster,Arts Damage,Ranged,AoE,23,70,367.5
+Mint,5,Caster,Phalanx Caster,Arts Damage,Ranged,AoE,25,80,366.0
+Adnachiel,3,Sniper,Marksman,Physical Damage,Ranged,1,11,70,365.0
+Dur-nar,4,Defender,Arts Protector,Arts Damage,Melee,1,24,70,364.375
+Haze,4,Caster,Core Caster,Arts Damage,Ranged,1,19,70,364.375
+Gummy,4,Defender,Guardian,Physical Damage,Melee,1,20,70,362.5
+Ambriel,4,Sniper,Deadeye,Physical Damage,Ranged,1,20,70,361.85185185185185
+Hoshiguma,6,Defender,Protector,Physical Damage,Melee,1,23,70,358.33333333333337
+Roberta,4,Supporter,Artificer,Physical Damage,Melee,1,17,70,356.66666666666663
+Liskarm,5,Defender,Protector,Physical Damage,Melee,1,22,70,354.1666666666667
+Vanilla,3,Vanguard,Pioneer,Physical Damage,Melee,1,11,70,338.0952380952381
+Ch'en the Holungday,6,Sniper,Spreadshooter,Physical Damage,Ranged,AoE,32,70,336.0869565217392
+Sora,5,Supporter,Bard,Physical Damage,Ranged,1,7,70,335.0
+Rosmontis,6,Sniper,Flinger,Physical Damage,Ranged,1,25,70,327.6190476190476
+W,6,Sniper,Artilleryman,Physical Damage,Ranged,AoE,29,70,325.7142857142857
+Croissant,5,Defender,Protector,Physical Damage,Melee,1,22,70,316.6666666666667
+Dusk,6,Caster,Splash Caster,Arts Damage,Ranged,AoE,34,70,316.55172413793105
+Heavyrain,5,Defender,Protector,Physical Damage,Melee,1,24,80,315.0
+Executor,5,Sniper,Spreadshooter,Physical Damage,Ranged,AoE,31,70,313.0434782608696
+Matterhorn,4,Defender,Protector,Physical Damage,Melee,1,21,70,312.5
+Bison,5,Defender,Protector,Physical Damage,Melee,1,24,80,312.5
+Fang,3,Vanguard,Pioneer,Physical Damage,Melee,1,11,70,309.5238095238095
+Ashlock,5,Defender,Fortress,Physical Damage,Melee,1,27,70,308.92857142857144
+Meteorite,5,Sniper,Artilleryman,Physical Damage,Ranged,AoE,28,70,308.92857142857144
+Bubble,4,Defender,Protector,Physical Damage,Melee,1,21,70,308.33333333333337
+Fiammetta,6,Sniper,Artilleryman,Physical Damage,Ranged,AoE,29,70,307.5
+Cuora,4,Defender,Protector,Physical Damage,Melee,1,21,70,304.1666666666667
+Aosta,5,Sniper,Spreadshooter,Physical Damage,Ranged,AoE,31,70,300.4347826086957
+Ifrit,6,Caster,Blast Caster,Arts Damage,Ranged,AoE,34,70,300.0
+Passenger,6,Caster,Chain Caster,Physical Damage,Ranged,1,33,70,299.5652173913044
+Sesa,5,Sniper,Artilleryman,Physical Damage,Ranged,AoE,28,70,297.5
+Ling,6,Supporter,Summoner,Arts Damage,Ranged,1,12,70,295.625
+Reserve Operator - Melee,3,Vanguard,Pioneer,Physical Damage,Melee,1,10,70,294.2857142857143
+Steward,3,Caster,Core Caster,Arts Damage,Ranged,1,18,70,293.75
+Magallan,6,Supporter,Summoner,Arts Damage,Ranged,1,12,70,293.125
+Pinecone,4,Sniper,Spreadshooter,Physical Damage,Ranged,AoE,30,70,290.00000000000006
+Quercus,5,Supporter,Abjurer,Arts Damage,Ranged,1,12,70,289.375
+Mostima,6,Caster,Splash Caster,Arts Damage,Ranged,AoE,34,70,287.58620689655174
+Angelina,6,Supporter,Decel Binder,Arts Damage,Ranged,1,16,70,285.2631578947368
+Reserve Operator - Caster,3,Caster,Core Caster,Arts Damage,Ranged,1,17,70,285.0
+Shirayuki,4,Sniper,Artilleryman,Physical Damage,Ranged,AoE,27,70,284.64285714285717
+Gnosis,6,Supporter,Hexer,Arts Damage,Ranged,1,13,70,284.375
+Pith,5,Caster,Splash Caster,Arts Damage,Ranged,AoE,32,60,283.1034482758621
+THRM-EX,1,Specialist,Executor,Physical Damage,Melee,1,3,200,279.5698924731183
+Tsukinogi,5,Supporter,Abjurer,Arts Damage,Ranged,1,12,70,278.125
+Nine-Colored Deer,5,Supporter,Abjurer,Arts Damage,Ranged,1,11,70,276.875
+Mayer,5,Supporter,Summoner,Arts Damage,Ranged,1,11,70,276.875
+Leizi,5,Caster,Chain Caster,Arts Damage,Ranged,1,32,70,276.0869565217392
+Lava the Purgatory,5,Caster,Splash Caster,Arts Damage,Ranged,AoE,35,80,275.1724137931035
+Suzuran,6,Supporter,Decel Binder,Arts Damage,Ranged,1,16,70,274.2105263157895
+Istina,5,Supporter,Decel Binder,Arts Damage,Ranged,1,15,70,272.6315789473684
+Skyfire,5,Caster,Splash Caster,Arts Damage,Ranged,AoE,33,70,270.3448275862069
+Scene,5,Supporter,Summoner,Arts Damage,Ranged,1,11,70,270.0
+Rangers,2,Sniper,Marksman,Physical Damage,Ranged,1,7,70,269.0
+Pramanix,5,Supporter,Hexer,Arts Damage,Ranged,1,12,70,268.75
+Spot,3,Defender,Guardian,Physical Damage,Melee,1,17,70,266.6666666666667
+Leonhardt,5,Caster,Splash Caster,Arts Damage,Ranged,AoE,33,70,266.55172413793105
+Glaucus,5,Supporter,Decel Binder,Arts Damage,Ranged,1,15,70,265.7894736842105
+Corroserum,5,Caster,Blast Caster,Arts Damage,Ranged,AoE,33,70,262.0689655172414
+Podenco,4,Supporter,Decel Binder,Arts Damage,Ranged,1,14,70,258.9473684210526
+Shamare,5,Supporter,Hexer,Arts Damage,Ranged,1,12,70,255.0
+Goldenglow,6,Caster,Mech-Accord,Physical Damage,Ranged,1,22,70,254.61538461538458
+Cardigan,3,Defender,Protector,Physical Damage,Melee,1,18,70,254.16666666666669
+Earthspirit,4,Supporter,Decel Binder,Arts Damage,Ranged,1,14,70,252.6315789473684
+Deepcolor,4,Supporter,Summoner,Arts Damage,Ranged,1,10,70,251.875
+Tequila,5,Guard,Liberator Guard,Physical Damage,Melee,1,13,80,251.66666666666669
+Mizuki,6,Specialist,Ambusher,Physical Damage,Melee,AoE,21,70,247.14285714285714
+Gitano,4,Caster,Splash Caster,Arts Damage,Ranged,AoE,32,70,246.55172413793105
+Beagle,3,Defender,Protector,Physical Damage,Melee,1,18,70,245.83333333333334
+Click,4,Caster,Mech-Accord,Arts Damage,Ranged,1,20,70,242.3076923076923
+Greyy,4,Caster,Splash Caster,Arts Damage,Ranged,AoE,32,70,241.0344827586207
+Pudding,4,Caster,Chain Caster,Physical Damage,Ranged,1,31,70,235.6521739130435
+Castle-3,1,Guard,Dreadnought,Physical Damage,Melee,1,3,200,235.33333333333331
+Manticore,5,Specialist,Ambusher,Physical Damage,Melee,AoE,20,70,231.7142857142857
+Kirara,5,Specialist,Ambusher,Physical Damage,Melee,AoE,20,70,228.0
+Kjera,5,Caster,Mech-Accord,Physical Damage,Ranged,1,23,80,226.15384615384613
+Yato,2,Vanguard,Pioneer,Physical Damage,Melee,1,7,70,220.95238095238093
+Catapult,3,Sniper,Artilleryman,Physical Damage,Ranged,AoE,23,70,220.35714285714286
+Durin,2,Caster,Core Caster,Arts Damage,Ranged,1,12,70,212.5
+Ethan,4,Specialist,Ambusher,Physical Damage,Melee,AoE,19,70,212.0
+Touch,5,Medic,Medic,Healing,Ranged,1,18,60,208.7719298245614
+Lava,3,Caster,Splash Caster,Arts Damage,Ranged,AoE,30,70,200.6896551724138
+Noir Corne,2,Defender,Protector,Physical Damage,Melee,1,14,70,200.0
+Orchid,3,Supporter,Decel Binder,Arts Damage,Ranged,1,12,70,198.94736842105263
+Shining,6,Medic,Medic,Healing,Ranged,1,20,70,185.96491228070175
+Warfarin,5,Medic,Medic,Healing,Ranged,1,19,70,177.19298245614033
+Tuye,5,Medic,Medic,Healing,Ranged,1,21,80,172.98245614035088
+Whisperain,5,Medic,Therapist,Healing,Ranged,1,20,70,172.6315789473684
+'Justice Knight',1,Sniper,Marksman,Physical Damage,Ranged,1,3,200,172.0
+Kal'tsit,6,Medic,Medic,Healing,Ranged,1,20,70,171.9298245614035
+Sussurro,4,Medic,Medic,Healing,Ranged,1,18,70,171.22807017543857
+Silence,5,Medic,Medic,Healing,Ranged,1,19,70,169.12280701754386
+Folinic,5,Medic,Medic,Healing,Ranged,1,21,80,168.0701754385965
+Ceylon,5,Medic,Therapist,Healing,Ranged,1,22,80,164.21052631578945
+Myrrh,4,Medic,Medic,Healing,Ranged,1,18,70,163.1578947368421
+Purestream,4,Medic,Therapist,Healing,Ranged,1,19,80,159.29824561403507
+Gavial,4,Medic,Medic,Healing,Ranged,1,18,70,157.89473684210526
+12F,2,Caster,Splash Caster,Arts Damage,Ranged,AoE,24,70,148.96551724137933
+Mulberry,5,Medic,Wandering Medic,Healing,Ranged,1,15,70,136.140350877193
+Honeyberry,5,Medic,Wandering Medic,Healing,Ranged,1,15,70,131.57894736842104
+Ansel,3,Medic,Medic,Healing,Ranged,1,17,70,127.01754385964911
+Nightingale,6,Medic,Multi-target Medic,Healing,Ranged,3,18,70,122.80701754385964
+Hibiscus,3,Medic,Medic,Healing,Ranged,1,17,70,121.05263157894736
+Breeze,5,Medic,Multi-target Medic,Healing,Ranged,3,17,70,120.35087719298245
+Reserve Operator - Logistics,3,Medic,Medic,Healing,Ranged,1,16,70,118.59649122807016
+Ptilopsis,5,Medic,Multi-target Medic,Healing,Ranged,3,17,70,117.5438596491228
+Perfumer,4,Medic,Multi-target Medic,Healing,Ranged,3,16,70,112.28070175438596
+Lancet-2,1,Medic,Medic,Healing,Ranged,1,3,200,24.561403508771928
